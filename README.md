@@ -10,3 +10,10 @@ I have experience with env
 
 1. I created a new virtual environment
 2. I created a requirements.txt
+
+I created a new py file with fastapi
+
+To run it
+Firsly run ./activate in Scrip lib in ./my_test_project folder
+then run fastapi run main.py
+Succes!
