@@ -14,6 +14,6 @@ I have experience with env
 I created a new py file with fastapi
 
 To run it
-Firsly run ./activate in Scrip lib in ./my_test_project folder
-then run fastapi run main.py
-Succes!
+1. Firsly run ./activate in Scripз lib in ./my_test_project folder
+2. then run fastapi run main.py
+3. Succes!
